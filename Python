@@ -1,2 +1,0 @@
-print('Current age was ' + str(int(Reg) - 2))
-Current age was 25
